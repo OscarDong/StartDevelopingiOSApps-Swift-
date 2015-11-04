@@ -2,7 +2,24 @@
 翻译Apple官方入门文档Start Developing iOS Apps (Swift)为简体中文
 原文地址https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/
 有意参与者请加QQ群：458376949
+
 *本人是学生党，周一至周五可能回复不能太及时，敬请谅解，但是我会尽量及时回复issue或群里的消息的。
+
+章节列表
+(Getting Started)
+  Jump right in
+  Learn the Essentials of Swift
+(Building the UI)
+  Build a Basic UI
+  Connect the UI to Code
+  Work with View Controllers
+  Inplement a Custom Control
+  Define Your Data Model
+(Working with Table Views)
+  Create a Table View
+  Inplement Navigation
+  Inplement Edit and Delete Behavior
+  Persist Data
 
 贡献力量
 如果想做出贡献的话，你可以：
